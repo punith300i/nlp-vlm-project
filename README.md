@@ -6,5 +6,6 @@ and then run jupyter notebooks:
 
 * `eval_script(VQAv2).ipynb` evaluates the model on VQAv2 Val dataset. Using open-flamingo framework with various 
 * `PubMedQA_dataset_script.ipynb` is used for fine-tuning the model on PubMedQA dataset
+* `run_open-flamingo.ipynb` creates an interface to query the open-flamingo model and generate results
 
 
